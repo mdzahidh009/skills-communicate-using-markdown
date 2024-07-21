@@ -14,3 +14,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
+
+
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
